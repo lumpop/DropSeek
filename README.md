@@ -1,6 +1,6 @@
 # Dropseek 操作手册
 
-## 关于DropSeek
+## 关于Dropseek
 
 ### Dropseek是什么
 
