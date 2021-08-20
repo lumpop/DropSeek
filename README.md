@@ -1,4 +1,4 @@
-# Dropseek 操作手册
+# Dropseek Operation Manual
 
 ## 关于Dropseek
 
