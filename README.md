@@ -1,10 +1,10 @@
 # Dropseek Operation Manual
 
-## 关于Dropseek
+## About Dropseek
 
-### Dropseek是什么
+### What is Dropseek
 
-DropSeek是一款可以帮助独立站用户一键将速卖通或其它独立站上的商品导入至用户店铺的插件。DropSeek可跨平台，并且支持多店铺绑定，能够批量导入并上架商品，帮助卖家在个人独立站上销售更多品类的商品。
+DropSeek is a plug-in that can help independent station users import AliExpress or other independent station products to the user's store with one click. DropSeek can be cross-platform and supports multi-store binding. It can import and list products in batches, helping sellers to sell more categories of products on individual independent stations.
 
 ### Dropseek支持的平台
 
