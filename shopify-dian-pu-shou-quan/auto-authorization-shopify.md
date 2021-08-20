@@ -12,15 +12,15 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 * 点击【Add to Chrome】
 
-![](../.gitbook/assets/0%20%281%29%20%284%29.jpeg)
+![](../.gitbook/assets/0%20%281%29%20%281%29%20%284%29.jpeg)
 
 * 添加扩展程序
 
-![](../.gitbook/assets/1%20%281%29.jpeg)
+![](../.gitbook/assets/1%20%281%29%20%281%29.jpeg)
 
 * 安装完成
 
-![](../.gitbook/assets/2%20%281%29%20%284%29.jpeg)
+![](../.gitbook/assets/2%20%281%29%20%281%29%20%284%29.jpeg)
 
 2. 进入 **shopify** 店铺后台**-&gt;**应用
 
@@ -44,5 +44,5 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 5. 重新进入 **dropseek** 后台，显示店铺已授权
 
-![](../.gitbook/assets/8%20%281%29.jpeg)
+![](../.gitbook/assets/8%20%281%29%20%281%29.jpeg)
 
