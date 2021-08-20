@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DropSeek 操作手册](README.md)
+* [Dropseek 操作手册](README.md)
 
 ## Shopify 店铺授权指南 <a id="shopify-dian-pu-shou-quan"></a>
 
