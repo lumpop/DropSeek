@@ -6,9 +6,9 @@
 
 ![](.gitbook/assets/excel.png)
 
-请使用逗号，空格或者回车键对链接进行分割。
-
 ## TXT文件模板
+
+请使用逗号，空格或者回车键对链接进行分割。
 
 ![](.gitbook/assets/txt.png)
 
