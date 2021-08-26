@@ -12,3 +12,7 @@
 * [ShopBase店铺 自动授权](shopbase-dian-pu-shou-quan/auto-authorization-shopbase.md)
 * [ShopBase店铺 手动授权](shopbase-dian-pu-shou-quan/manual-authorization-shopbase.md)
 
+---
+
+* [批量导入文件模板](pi-liang-dao-ru-wen-jian-mo-ban.md)
+
