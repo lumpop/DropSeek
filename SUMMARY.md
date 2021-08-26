@@ -14,5 +14,5 @@
 
 ---
 
-* [批量导入文件模板](pi-liang-dao-ru-wen-jian-mo-ban.md)
+* [批量导入文件模板](file-template.md)
 
