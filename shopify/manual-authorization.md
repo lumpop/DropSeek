@@ -26,13 +26,13 @@
 
 ![](../.gitbook/assets/14%20%281%29%20%281%29%20%281%29.jpeg)
 
-5. 给予 **Admin API** 对应权限**/4** 个
+5. 给予 **Admin API** 对应权限**/4** 个。注意：**产品** 的权限为 **读取和写入！！！**
 
-![](../.gitbook/assets/15%20%281%29%20%281%29%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/quan-xian-.png)
 
 6. 保存，确认创建 **APP**
 
-![](../.gitbook/assets/16%20%281%29.jpeg)![](../.gitbook/assets/17%20%281%29%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/chuang-jian-.png)
 
 7. 私人应用创建完成
 
@@ -50,13 +50,13 @@
 
 ![](../.gitbook/assets/21%20%284%29.jpeg)
 
-![](../.gitbook/assets/22.jpeg)
+![](../.gitbook/assets/shou-quan-.png)
 
 11. 输入店铺名以及之前获取到的 **Admin API** 中的 **password**，确认
 
-![](../.gitbook/assets/23.jpeg)
-
 注：password 需明文显示后复制
+
+![](../.gitbook/assets/token.png)
 
 12. 授权成功，完成
 
