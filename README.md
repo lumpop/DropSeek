@@ -259,5 +259,5 @@ DropSeek是一款可以帮助独立站用户一键将速卖通或其它独立站
 
 用户可以查看当前DropSeek版本的新增加功能，移除功能或优化功能项的说明。用户点击进入版本说明页面，即可发现并阅读浏览说明。
 
-![](.gitbook/assets/43.png)
+![](.gitbook/assets/ban-ben-shuo-ming-.png)
 
