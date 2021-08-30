@@ -12,7 +12,7 @@
 
 2. 进入【使用和管理专有应用】或【管理私人应用】
 
-![](../.gitbook/assets/10.jpeg)
+![](../.gitbook/assets/guan-li-.png)
 
 * 确认开启私人应用
 
