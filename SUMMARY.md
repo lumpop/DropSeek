@@ -15,4 +15,5 @@
 ---
 
 * [批量导入文件模板](file-template.md)
+* [亚马逊商品导入](amazon-import.md)
 
