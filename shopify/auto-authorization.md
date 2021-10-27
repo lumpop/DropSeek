@@ -12,37 +12,36 @@ https://chrome.google.com/webstore/detail/dropseek-product-sourcing/cjekpooehbki
 
 * 点击【Add to Chrome】
 
-![](../.gitbook/assets/0%20%281%29%20%281%29%20%284%29.jpeg)
+![](<../.gitbook/assets/0 (1) (1) (3).jpeg>)
 
 * 添加扩展程序
 
-![](../.gitbook/assets/1%20%281%29%20%281%29%20%281%29.jpeg)
+![](<../.gitbook/assets/1 (1) (1) (1) (3).jpeg>)
 
 * 安装完成
 
-![](../.gitbook/assets/2%20%281%29%20%281%29%20%281%29%20%284%29.jpeg)
+![](<../.gitbook/assets/2 (1) (1) (1) (2).jpeg>)
 
-2. 进入 **shopify** 店铺后台**-&gt;**应用
+2\. 进入 **shopify** 店铺后台**->**应用
 
-![](../.gitbook/assets/9%20%282%29.jpeg)
+![](../.gitbook/assets/9.jpeg)
 
-3. 点击 **dropseek** 插件图标，弹出弹窗
+3\. 点击 **dropseek** 插件图标，弹出弹窗
 
-![](../.gitbook/assets/4%20%281%29.jpeg)
+![](../.gitbook/assets/4.jpeg)
 
-4. 点击【**Auth Person APP**】进行授权
+4\. 点击【**Auth Person APP**】进行授权
 
 ![](../.gitbook/assets/5.jpeg)
 
 * 后台授权中，请耐心等待
 
-![](../.gitbook/assets/6%20%281%29%20%281%29.jpeg)
+![](<../.gitbook/assets/6 (1).jpeg>)
 
 * 授权成功
 
-![](../.gitbook/assets/7%20%281%29.jpeg)
+![](<../.gitbook/assets/7 (1).jpeg>)
 
-5. 重新进入 **dropseek** 后台，显示店铺已授权
+5\. 重新进入 **dropseek** 后台，显示店铺已授权
 
-![](../.gitbook/assets/8%20%281%29%20%281%29%20%281%29.jpeg)
-
+![](<../.gitbook/assets/8 (1) (1) (1).jpeg>)
