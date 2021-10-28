@@ -11,6 +11,8 @@ DropSeek是一款可以帮助独立站用户一键将速卖通或其它独立站
 1. 支持绑定和上架的商品店铺平台：Shopify, ShopBase
 2. 支持导入和上架的商品：速卖通, Shopify, ShopBase, shoplazza, xshoppy。
 
+<mark style="color:red;">注：ShopBase相关功能暂时无法使用，正在修复中</mark>
+
 ## 使用方法
 
 ### 如何安装Dropseek？
