@@ -9,7 +9,7 @@ DropSeek是一款可以帮助独立站用户一键将速卖通或其它独立站
 ### Dropseek支持的平台
 
 1. 支持绑定和上架的商品店铺平台：Shopify, ShopBase，Mshop，wshopon
-2. 支持导入和上架的商品：速卖通, 亚马逊，Shopify, ShopBase, shoplazza, xshoppy。
+2. 支持导入和上架的商品：速卖通, 亚马逊，Shopify, ShopBase, shoplazza, xshoppy，shopline。
 
 ## 使用方法
 
