@@ -8,9 +8,9 @@
 
 
 
-1.进入 **shopify** 店铺后台->应用
+1.进入 **shopify** 店铺后台->应用程序->应用销售渠道设置
 
-![](../.gitbook/assets/origin\_img\_v2\_2d436804-4ba0-4e43-ad4b-07d3fd4360dg.png)
+<figure><img src="../.gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 2\. 点击【开发应用】
 
@@ -30,11 +30,11 @@
 
 ![](../.gitbook/assets/origin\_img\_v2\_6a434667-f82c-4dd4-ab6f-ecffba90dbfg.png)
 
-5\. 配置后台API访问范围，给予 **Admin API** 对应权限**/4** 个。
+5\. 选择配置管理API作用域，给予 **Admin API** 对应权限**4** 块。
 
 ![](../.gitbook/assets/U7gaGfF0Gf.png)
 
-6.配置完成后，点击【安装应用】
+6.配置完成后保存，点击【安装应用】
 
 ![](../.gitbook/assets/image.png)
 
