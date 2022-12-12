@@ -14,9 +14,9 @@
 
 2\. 点击【开发应用】
 
-![](../.gitbook/assets/origin\_img\_v2\_352e8899-82a8-481d-b461-0e0ca588e8fg.png)
+<figure><img src="../.gitbook/assets/11 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
-* 点击【允许自定义应用开发】
+* 点击【允许自定义应用开发】（如果不是第一次使用开发应用可跳过）
 
 ![](../.gitbook/assets/origin\_img\_v2\_796a1fcc-a04e-4fd9-bc03-62bca95f2ddg.png)
 
@@ -24,13 +24,15 @@
 
 3\. 点击【创建应用】
 
-![](../.gitbook/assets/origin\_img\_v2\_8c8f5c6e-26aa-46fa-badf-e02f8ec52dcg.png)
+<figure><img src="../.gitbook/assets/12 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 4\. 填写私人应用名称以及联系人邮箱。（邮箱和名称可以自行填写）
 
 ![](../.gitbook/assets/origin\_img\_v2\_6a434667-f82c-4dd4-ab6f-ecffba90dbfg.png)
 
 5\. 选择配置管理API作用域，给予 **Admin API** 对应权限**4** 块。
+
+<figure><img src="../.gitbook/assets/2.jpeg" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/U7gaGfF0Gf.png)
 
